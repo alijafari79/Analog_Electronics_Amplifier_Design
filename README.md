@@ -29,6 +29,7 @@ Numbering to use in HSpice Code ...
 # Now HSpice Code 
 
 ```
+
 *********//devices//*********
 .option vntol=1p
 .option nomod
@@ -97,8 +98,8 @@ Q11	18	17	200	NPN
 
 ***//models//***
 
-.Model  NPN	npn 	is=2f	bf=250 vaf=100	cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
-.Model  PNP	pnp		is=4f 	bf=100 vaf=30 	cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
+.Model  NPN	npn is=2f	bf=250 vaf=100	cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
+.Model  PNP	pnp	is=4f 	bf=100 vaf=30 	cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
 
 .Model	Diod 	D 	Is=10f	N=1.836	Rs=.5664	Xti=3	Eg=1.11	Cjo=4p	M=.3333	Vj=.5	Fc=.5	Bv=100	Ibv=100u	Tt=11.54n
 
@@ -113,4 +114,5 @@ Q11	18	17	200	NPN
 .pz v(18) vid
 
 .end
+
 ```
