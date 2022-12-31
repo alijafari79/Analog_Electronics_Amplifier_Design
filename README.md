@@ -18,7 +18,8 @@
 
 # Circuit in LtSpice :
 
-![image](https://user-images.githubusercontent.com/50498845/210150621-9365a952-2306-4444-b844-e3fdbb00c7d1.png)
+![Screenshot 2022-12-31 212545](https://user-images.githubusercontent.com/69210109/210151909-a5742b70-9372-40d2-aa3d-66434e234477.png)
+
 
 # Numbering Circuit Nodes :
 Numbering to use in HSpice Code ...
