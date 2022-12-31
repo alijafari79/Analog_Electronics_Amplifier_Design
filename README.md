@@ -53,7 +53,7 @@ Co	18	0	1p
 vcc	100	0	3
 vee	200	0	-3
 
-vid	103	0	ac	sin(0	1m	1k	0	0	0)
+vid	103	0	ac=1	sin	0	1m	1k
 E1	3	2	103	0	0.5
 E2	5	0	103	0	-0.5
 	
@@ -80,26 +80,27 @@ ICC1	100	16	1m
 ICC2	17	200	1m
 
 ***//Transistor//***
-Q1	8	4	7	mynpn
-Q2	9	6	7	mynpn
-Q3	11	10	8	mynpn
-Q4	12	10	9	mynpn
+Q1	8	4	7	NPN
+Q2	9	6	7	NPN
+Q3	11	10	8	NPN
+Q4	12	10	9	NPN
 
-Q5	12	11	100	mypnp
-Q6	11	11	100	mypnp
-Q7	200	12	13	mypnp
-Q8	4	13	100	mypnp
+Q5	12	11	100	PNP
+Q6	11	11	100	PNP
+Q7	200	12	13	PNP
+Q8	14	13	100	PNP
 
-Q9	100	14	15	mynpn
-Q10	100	16	18	mynpn
-Q11	18	17	200	mynpn
+Q9	100	14	15	NPN
+Q10	100	16	18	NPN
+Q11	18	17	200	NPN
 
 
 ***//models//***
-.Model  NPN IS=2f BF=250 vaf=100 cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
-.Model  PNP IS=4f BF=100 vaf=30 cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
 
-.Model Diod  D(Is=10f N=1.836 Rs=.5664 Xti=3 Eg=1.11 Cjo=4p	M=.3333 Vj=.5 Fc=.5 Bv=100 Ibv=100u Tt=11.54n)
+.Model  NPN	npn is=2f	bf=250 vaf=100	cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
+.Model  PNP	pnp	is=4f 	bf=100 vaf=30 	cje=0.5p cjc=0.5p cjs=1p mjs=0.5 mjc=0.5 mje=0.5 vje=0.65 vjc=0.65 vjs=0.65 tf=0.1n
+
+.Model	Diod 	D 	Is=10f	N=1.836	Rs=.5664	Xti=3	Eg=1.11	Cjo=4p	M=.3333	Vj=.5	Fc=.5	Bv=100	Ibv=100u	Tt=11.54n
 
 ***//analysis//***
 .op
@@ -110,6 +111,6 @@ Q11	18	17	200	mynpn
 .ac	dec	1000	1	10000G
 
 .pz v(18) vid
-.end
 
+.end
 ```
