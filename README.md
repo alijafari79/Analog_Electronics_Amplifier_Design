@@ -6,7 +6,7 @@
 1. [𝐴𝑣𝑜(𝑜𝑝𝑒𝑛 𝑙𝑜𝑜𝑝) ≥ 115𝑑𝐵 ](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%90%B4%F0%9D%91%A3%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D%F0%9D%91%92%F0%9D%91%9B-%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D)
 2. [𝑃𝑜𝑤𝑒𝑟 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 ≤ 12𝑚𝑊 ](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%91%83%F0%9D%91%9C%F0%9D%91%A4%F0%9D%91%92%F0%9D%91%9F-%F0%9D%90%B6%F0%9D%91%9C%F0%9D%91%9B%F0%9D%91%A0%F0%9D%91%A2%F0%9D%91%9A%F0%9D%91%9D%F0%9D%91%A1%F0%9D%91%96%F0%9D%91%9C%F0%9D%91%9B)
 3. [𝑂𝑢𝑡𝑝𝑢𝑡 𝑆𝑤𝑖𝑛𝑔 (𝑐𝑙𝑜𝑠𝑒𝑑 𝑙𝑜𝑜𝑝) ≥ 3.9𝑝−𝑝](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%91%82%F0%9D%91%A2%F0%9D%91%A1%F0%9D%91%9D%F0%9D%91%A2%F0%9D%91%A1-%F0%9D%91%86%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%9B%F0%9D%91%94-%F0%9D%91%90%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%A0%F0%9D%91%92%F0%9D%91%91-%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D)
-4. [𝑆𝑙𝑒𝑤 𝑅𝑎𝑡𝑒 ≥ 2𝑉/𝜇𝑠 ](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#bridged)
+4. [𝑆𝑙𝑒𝑤 𝑅𝑎𝑡𝑒 ≥ 2𝑉/𝜇𝑠 ](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%91%86%F0%9D%91%99%F0%9D%91%92%F0%9D%91%A4-%F0%9D%91%85%F0%9D%91%8E%F0%9D%91%A1%F0%9D%91%92)
 5. [𝐵𝑊 (𝑐𝑙𝑜𝑠𝑒𝑑 𝑙𝑜𝑜𝑝) ≥ 10𝑀𝐻𝑧 ](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#bridged)
 6. [𝑃ℎ𝑎𝑠𝑒 𝑀𝑎𝑟𝑔𝑖𝑛 ≥ 60°](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#bridged)
 
