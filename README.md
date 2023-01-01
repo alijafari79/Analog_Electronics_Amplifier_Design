@@ -13,7 +13,7 @@
 
 # Circuit in LtSpice :
 
-![image](https://user-images.githubusercontent.com/50498845/210182334-54b32778-231f-457e-b590-81a16f2b1bd1.png)
+![image](https://user-images.githubusercontent.com/69210109/210182593-05fe9a91-1ede-4098-84b2-0352d5e52c75.png)
 
 
 # Numbering Circuit Nodes :
