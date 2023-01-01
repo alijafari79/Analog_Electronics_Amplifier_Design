@@ -44,7 +44,7 @@ D1	16	15	Diod
 D2	15	17	Diod
 
 ***//	Capacitor	//***
-***Cc	12	15	100p
+***Cc	12	14	100p
 ***Co	18	0	1p
 
 
