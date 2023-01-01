@@ -42,15 +42,15 @@ D1	16	15	Diod
 D2	15	17	Diod
 
 ***//	Capacitor	//***
-Cc	12	15	100p
-Co	18	0	1p
+***Cc	12	15	100p
+***Co	18	0	1p
 
 
 ***//	Voltage	//***
 vcc	100	0	3
 vee	200	0	-3
 
-vid	103	0	ac	sin(0	1m	1k	0	0	0)
+vid	103	0	ac	sin(0	1u	1k	0	0	0)
 E1	3	2	103	0	0.5
 E2	5	0	103	0	-0.5
 	
@@ -89,7 +89,8 @@ Q8	14	13	100	PNP
 
 Q9	100	14	15	NPN
 Q10	100	16	18	NPN
-Q11	18	17	200	NPN
+
+Q11	200	17	18	PNP
 
 
 ***//	Models	//***
