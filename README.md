@@ -13,12 +13,14 @@
 
 # Circuit in LtSpice :
 
-![Screenshot 2022-12-31 212545](https://user-images.githubusercontent.com/69210109/210151909-a5742b70-9372-40d2-aa3d-66434e234477.png)
+![image](https://user-images.githubusercontent.com/50498845/210182334-54b32778-231f-457e-b590-81a16f2b1bd1.png)
 
 
 # Numbering Circuit Nodes :
 Numbering to use in HSpice Code ...
-![Screenshot 2022-12-31 203114](https://user-images.githubusercontent.com/69210109/210165326-288fe8af-31d5-41b8-b984-34e3d42378c2.png)
+![image](https://user-images.githubusercontent.com/50498845/210182534-df72da76-7e97-44a9-8ee9-1d824c315e64.png)
+
+
 
 
 
