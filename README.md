@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/50498845/210151631-1a63ef91-0b36-4326-9c6b-b247c85b9bad.png)
 
 
-1. [𝐴𝑣𝑜(𝑜𝑝𝑒𝑛 𝑙𝑜𝑜𝑝) ≥ 115𝑑𝐵 ][([https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#host-only](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%90%B4%F0%9D%91%A3%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D%F0%9D%91%92%F0%9D%91%9B-%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D))](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%90%B4%F0%9D%91%A3%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D%F0%9D%91%92%F0%9D%91%9B-%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D)
+1. [𝐴𝑣𝑜(𝑜𝑝𝑒𝑛 𝑙𝑜𝑜𝑝) ≥ 115𝑑𝐵 ]
 2. [𝑃𝑜𝑤𝑒𝑟 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 ≤ 12𝑚𝑊 ](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#nat)
 3. [𝑂𝑢𝑡𝑝𝑢𝑡 𝑆𝑤𝑖𝑛𝑔 (𝑐𝑙𝑜𝑠𝑒𝑑 𝑙𝑜𝑜𝑝) ≥ 3.9𝑝−𝑝](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#bridged)
 4. [𝑆𝑙𝑒𝑤 𝑅𝑎𝑡𝑒 ≥ 2𝑉/𝜇𝑠 ](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#bridged)
